@@ -1,0 +1,1 @@
+Happy		Sad		Sarcastic		Surprised		Crook		Neutral
