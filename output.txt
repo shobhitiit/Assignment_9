@@ -1,0 +1,15 @@
+ -----------OUTPUT FILE ----------
+A : Sarcastic
+B : Happy
+C : Happy
+E : Happy
+G : Surprised
+------------------------------------------------------------------------------------
+Mood_Happy:28.0
+Mood_Sad:0.0
+Mood_Sarcastic:14.0
+Mood_Surprised:17.0
+Mood_Crook:10.0
+Mood_Neutral:10.0
+Mood_Angry:7.0
+---------------------------------------------------------------------------------------

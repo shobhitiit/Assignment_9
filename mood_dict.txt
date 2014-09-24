@@ -2,3 +2,17 @@ Happy		Sad		Sarcastic		Surprised		Crook		Neutral		Angry
 
 :)		:(		:P			:-o			B-)		:-/		x-(
 :D		:'(		;)			O_O 			;)		=_=		>_<
+
+
+
+
+
+
+
+elif " :)" or " :D" in line: emoHappy = emoHappy + 1
+	elif ":(" or ":'(" in line: emoSad = emoSad + 1
+	elif ";)" or ":p" or ":P" in line: emoSarcastic = emoSarcastic + 1
+	elif ":-o" or "O_O" in line: emoSurprised = emoSurprised + 1
+	elif ":B" or ";)" in line: emoCrooked = emoCrooked + 1
+	elif ":/" or "=_=" in line: emoNeutral = emoNeutral + 1
+	elif "x-(" or ">_<" in line: emoAngry = emoAngry + 1
